@@ -2,6 +2,9 @@ CRUD Simples - API REST
 
 API REST desenvolvida com Node.js e Express para gerenciamento de usuários.
 
+API online: https://crud-simpless.onrender.com
+GitHub: https://github.com/pedrocristiandev/crud-simples
+
 TECNOLOGIAS
 - Node.js
 - Express
